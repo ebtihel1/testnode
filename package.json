@@ -1,0 +1,21 @@
+{
+  "name": "projetinit",
+  "version": "1.0.0",
+  "description": "this project is a rappel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Zied Tabib",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.9.1",
+    "morgan": "^1.10.0",
+    "yup": "^1.6.1"
+  }
+}
